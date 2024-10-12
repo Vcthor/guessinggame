@@ -53,4 +53,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
     }
 }
+/* Victorie Alvin Delos Santos
+    Princess Roxanne Apilado
+    Reynald Boiser
+    Angelica Serrano
+    Bryson Geronimo*/ 
 ?>
+
